@@ -10,7 +10,7 @@ st.title('Stock Price Forecasting with ARIMA and Momentum Indicator Analysis')
 
 
 # Display image
-st.image('StockEdge1.jpeg', caption='Image Caption', use_column_width=True)
+st.image('https://drive.google.com/file/d/1figzDevl7NuCKZqAnuDBh_OFtSOOZkhu/view?usp=sharing', caption='Image Caption', use_column_width=True)
 
 # User inputs
 ticker = st.text_input('Enter Stock Ticker', 'AAPL')
